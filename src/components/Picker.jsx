@@ -71,7 +71,7 @@ export default function Picker({ setCharacter }) {
         color="secondary"
         onClick={handleClick}
       >
-        选择角色…
+        点击此处选择角色
       </Button>
       <Popover
         id={id}

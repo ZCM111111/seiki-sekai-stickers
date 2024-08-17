@@ -20,7 +20,7 @@ export default function Info({ open, handleClose, config }) {
         aria-labelledby="alert-dialog-title"
         aria-describedby="alert-dialog-description"
       >
-        <DialogTitle id="alert-dialog-title">关于</DialogTitle>
+        <DialogTitle id="alert-dialog-title">PJSK表情包生成器 iMikufans版 已汉化</DialogTitle>
         <DialogContent>
           <DialogContentText id="alert-dialog-description">
             <Typography variant="h6" component="h3">
